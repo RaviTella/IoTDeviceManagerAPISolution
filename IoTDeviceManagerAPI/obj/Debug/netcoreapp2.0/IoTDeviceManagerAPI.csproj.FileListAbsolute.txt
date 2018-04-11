@@ -1,0 +1,11 @@
+c:\users\ratella\Source\Repos\IoTDeviceManagerAPISolution\IoTDeviceManagerAPI\bin\Debug\netcoreapp2.0\IoTDeviceManagerAPI.deps.json
+c:\users\ratella\Source\Repos\IoTDeviceManagerAPISolution\IoTDeviceManagerAPI\bin\Debug\netcoreapp2.0\IoTDeviceManagerAPI.runtimeconfig.json
+c:\users\ratella\Source\Repos\IoTDeviceManagerAPISolution\IoTDeviceManagerAPI\bin\Debug\netcoreapp2.0\IoTDeviceManagerAPI.runtimeconfig.dev.json
+c:\users\ratella\Source\Repos\IoTDeviceManagerAPISolution\IoTDeviceManagerAPI\bin\Debug\netcoreapp2.0\IoTDeviceManagerAPI.dll
+c:\users\ratella\Source\Repos\IoTDeviceManagerAPISolution\IoTDeviceManagerAPI\obj\Debug\netcoreapp2.0\IoTDeviceManagerAPI.csproj.CoreCompileInputs.cache
+c:\users\ratella\Source\Repos\IoTDeviceManagerAPISolution\IoTDeviceManagerAPI\obj\Debug\netcoreapp2.0\IoTDeviceManagerAPI.AssemblyInfoInputs.cache
+c:\users\ratella\Source\Repos\IoTDeviceManagerAPISolution\IoTDeviceManagerAPI\obj\Debug\netcoreapp2.0\IoTDeviceManagerAPI.AssemblyInfo.cs
+C:\Users\ratella\Source\Repos\IoTDeviceManagerAPISolution\IoTDeviceManagerAPI\bin\Debug\netcoreapp2.0\IoTDeviceManagerAPI.pdb
+C:\Users\ratella\Source\Repos\IoTDeviceManagerAPISolution\IoTDeviceManagerAPI\obj\Debug\netcoreapp2.0\IoTDeviceManagerAPI.dll
+C:\Users\ratella\Source\Repos\IoTDeviceManagerAPISolution\IoTDeviceManagerAPI\obj\Debug\netcoreapp2.0\IoTDeviceManagerAPI.pdb
+C:\Users\ratella\Source\Repos\IoTDeviceManagerAPISolution\IoTDeviceManagerAPI\obj\Debug\netcoreapp2.0\IoTDeviceManagerAPI.csprojResolveAssemblyReference.cache

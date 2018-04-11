@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoTDeviceManagerAPI", "IoTDeviceManagerAPI\IoTDeviceManagerAPI.csproj", "{4873EAB9-9BD4-4480-AE44-13A38C65B13A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendCloudToDevice", "SendCloudToDevice\SendCloudToDevice.csproj", "{EAC35542-3EC1-4456-AC6F-F45361B415AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4873EAB9-9BD4-4480-AE44-13A38C65B13A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4873EAB9-9BD4-4480-AE44-13A38C65B13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4873EAB9-9BD4-4480-AE44-13A38C65B13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4873EAB9-9BD4-4480-AE44-13A38C65B13A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC35542-3EC1-4456-AC6F-F45361B415AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC35542-3EC1-4456-AC6F-F45361B415AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC35542-3EC1-4456-AC6F-F45361B415AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC35542-3EC1-4456-AC6F-F45361B415AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A451861F-DA1F-4DDF-96EA-F498FA2BA5DC}
+	EndGlobalSection
+EndGlobal
